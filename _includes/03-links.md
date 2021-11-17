@@ -13,3 +13,4 @@ layout: default
 {% include 03-links.md %}
 
 [GitHub](http://github.com)
+_includes/03-links.md
